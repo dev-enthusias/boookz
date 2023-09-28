@@ -6,6 +6,7 @@ export default {
       fontFamily: {
         grotesque: ['Darker Grotesque'],
         figtree: ['Figtree'],
+        inter: ['Inter'],
       },
     },
   },
